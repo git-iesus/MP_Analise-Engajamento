@@ -1,4 +1,7 @@
 # Análise de Dados do Instagram para Marcela Personalizados
+
+![Image Inicial](/capa.png)
+
 O projeto consiste em uma análise detalhada dos dados das postagens no Instagram da marca Marcela Personalizados, com o objetivo de extrair insights valiosos sobre engajamento, comportamento do público e estratégias de conteúdo. Essa análise será realizada gratuitamente, com foco no aprendizado prático acadêmico.
 
 ## Etapas do Projeto:
