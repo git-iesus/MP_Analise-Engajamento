@@ -2,7 +2,10 @@
 
 ![Image Inicial](/capa.png)
 
-O projeto consiste em uma análise detalhada dos dados das postagens no Instagram da marca Marcela Personalizados, com o objetivo de extrair insights valiosos sobre engajamento, comportamento do público e estratégias de conteúdo. Essa análise será realizada gratuitamente, com foco no aprendizado prático acadêmico.
+## Introdução
+
+<p> O projeto consiste em uma análise detalhada dos dados das postagens no Instagram da marca Marcela Personalizados, com o objetivo de extrair insights valiosos sobre engajamento, comportamento do público e estratégias de conteúdo. Essa análise será realizada e fornecida gratuitamente, com foco total no aprendizado prático acadêmico e suporte a pequenos negócios locais
+(Atividade Extensionista FAM).endizado prático acadêmico e suporte a pequenos negócios locais (Atividade Extensionista FAM).
 
 ## Etapas do Projeto:
 ### Scraping dos Dados
